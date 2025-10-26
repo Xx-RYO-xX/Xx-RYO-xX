@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.36749033168738" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="233.36749033168738" y="0" width="112.38903435814824" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="345.75652468983566" y="0" width="47.56035983089418" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="393.31688452072984" y="0" width="35.10306744817767" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="428.41995196890747" y="0" width="15.567230411062893" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.98718237997036" y="0" width="10.789357597255966" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="454.7765399772264" y="0" width="3.662215132417839" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.4387551096442" y="0" width="1.5612448903558254" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.19201906096234" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="233.19201906096234" y="0" width="112.65040640175397" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="345.84242546271634" y="0" width="47.52459873681973" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="393.36702419953605" y="0" width="35.07667311260538" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="428.44369731214147" y="0" width="15.555525260109706" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="443.99922257225114" y="0" width="10.781244975034223" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="454.7804675472854" y="0" width="3.6594614774762677" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.4399290247617" y="0" width="1.560070975238367" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>1.45 MB</div>
-                                <div>50.73%</div>
+                                <div>50.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>295 kB</div>
-                                <div>10.34%</div>
+                                <div>10.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,8 +271,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>698 kB</div>
-                                <div>24.43%</div>
+                                <div>700 kB</div>
+                                <div>24.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,7 +296,7 @@
                             </div>
                             <small>
                                 <div>67 kB</div>
-                                <div>2.35%</div>
+                                <div>2.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
