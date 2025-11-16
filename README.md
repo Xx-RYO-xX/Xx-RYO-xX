@@ -20,15 +20,15 @@
     <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=0d1116"
+      srcset="https://komarev.com/ghpvc/?username=Xx-RYO-xX&label=&color=0d1116"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=lightgrey"
+      srcset="https://komarev.com/ghpvc/?username=Xx-RYO-xX&label=&color=lightgrey"
     />
     <img
       alt="scroll"
-      src="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=0d1116"
+      src="https://komarev.com/ghpvc/?username=Xx-RYO-xX&label=&color=0d1116"
     />
   </picture>
   th visitor.</p>
