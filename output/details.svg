@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.91866808389202" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="229.91866808389202" y="0" width="112.73285302077173" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="342.65152110466374" y="0" width="46.85748889173804" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="389.5090099964018" y="0" width="34.584296646773126" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="424.09330664317497" y="0" width="16.070742706045678" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="440.1640493492206" y="0" width="14.689685549678021" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="454.8537348988986" y="0" width="3.6080930736557386" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.4618279725544" y="0" width="1.5381720274456443" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.73457599416483" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="229.73457599416483" y="0" width="113.01090410428652" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="342.74548009845137" y="0" width="46.81997087233867" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="389.56545097079004" y="0" width="34.55660557020893" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="424.122056540999" y="0" width="16.05787512711927" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="440.17993166811823" y="0" width="14.677923760464417" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="454.85785542858264" y="0" width="3.6052041329733875" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.463059561556" y="0" width="1.536940438443967" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>1.45 MB</div>
-                                <div>49.98%</div>
+                                <div>49.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>295 kB</div>
-                                <div>10.19%</div>
+                                <div>10.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,8 +271,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>711 kB</div>
-                                <div>24.51%</div>
+                                <div>713 kB</div>
+                                <div>24.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             </div>
                             <small>
                                 <div>218 kB</div>
-                                <div>7.52%</div>
+                                <div>7.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
