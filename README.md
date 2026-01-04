@@ -185,6 +185,8 @@
 | [TeraCoder2024](https://tcjudge.github.io/teaser-site/2024/) | 所属しているサークルIOORが運営、作問した京都産業大学で行った賞金付きのプログラミングコンテスト | |
 | [Forest_Program](https://github.com/ryonakagawa-1012/Forest_Program) | チーム開発<br>MVCモデルで作成した、ファイル構造の樹状整列を可視化するアプリケーション | Java |
 | [Forest_Document](https://github.com/ryonakagawa-1012/Forest_Document) | チーム開発<br>Forest_Programの基本設計、詳細設計、テスト結果などをHTMLでまとめたもの | HTML |
+| [TeraCoder2025](https://tcjudge.github.io/teaser-site/2025/) | 所属しているサークルIOORが運営、作問した京都産業大学で行った賞金付きのプログラミングコンテスト | |
+| [TeraCoder Judge System](https://tcjudge.kyoto-su.ac.jp) | 所属しているサークルIOORが開発、運営、保守しているプログラミングコンテスト用のオンラインジャッジシステム | セキュリティの観点から非公開 |
 
 ## 作問問題一覧
 
@@ -207,3 +209,17 @@
     *   使用アルゴリズム、データ構造等: 強連結成分分解
 *   [Word Chain Terako](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_l)
     *   概要: TeraCoder2024-L問題、想定解法は問題文通りに実装する
+
+### [TeraCoder2025](https://tcjudge.github.io/teaser-site/2025/)
+
+*   [Expo Queue](https://tcjudge.kyoto-su.ac.jp/contests/teracoder2025/problems/expo-queue)
+    *   概要: TeraCoder2025-F問題、想定解法はキューを用いる
+    *   使用アルゴリズム、データ構造等: キュー
+*   [Barn Owl Terako](https://tcjudge.kyoto-su.ac.jp/contests/teracoder2025/problems/barn-owl-terako)
+    *   概要: TeraCoder2025-G問題、想定解法は1からNまでの最短経路をダイグストラ法で求める
+    *   使用アルゴリズム、データ構造等: ダイクストラ法
+*   [Bingo Game](https://tcjudge.kyoto-su.ac.jp/contests/teracoder2025/problems/bingo-game)
+    *   概要: TeraCoder2025-I問題、想定解法は行・列・対角線に対して、開けられたマスの数をカウントする配列を用意して解く
+*   [Kyosan Escalator](https://tcjudge.kyoto-su.ac.jp/contests/teracoder2025/problems/kyosan-escalator)
+    *   概要: TeraCoder2025-L問題、想定解法はクラスカル法を用いる
+    *   使用アルゴリズム、データ構造等: Union-Find, クラスカル法
