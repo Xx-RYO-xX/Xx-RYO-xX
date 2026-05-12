@@ -83,22 +83,25 @@
   
 </div>
 
-<div align="center">
+<div align="center" style="background-color: white;">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
     <picture>
       <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?show_icons=true&show_history=5&width=450"
+        srcset="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=status"
       />
       <img
         alt="Xx_RYO_xX's atcoder stats"
-        src="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
+        src="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=status"
       />
     </picture>
+    <picture>
+      <source
+        srcset="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=graph"
+      />
+      <img
+        alt="Xx_RYO_xX's atcoder rating graph"
+        src="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=graph"
+      />
   </a>
 </div>
 <!--
