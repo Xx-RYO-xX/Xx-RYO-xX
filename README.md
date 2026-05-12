@@ -83,24 +83,24 @@
   
 </div>
 
-<div align="center" style="background-color: white;">
+<div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
     <picture>
       <source
-        srcset="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=status"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=white"
       />
       <img
         alt="Xx_RYO_xX's atcoder stats"
-        src="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=status"
+        src="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=white"
       />
     </picture>
     <picture>
       <source
-        srcset="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=graph"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=white"
       />
       <img
         alt="Xx_RYO_xX's atcoder rating graph"
-        src="https://atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX?contest-type=algo&graph-type=graph"
+        src="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=white"
       />
   </a>
 </div>
