@@ -16,7 +16,7 @@
   </picture>
   
   <p>I'm Ryo. I'm currently a fourth-year student at Kyoto Sangyo University.</p>
-  <p> My Major is Information science and engineering, and my research focuses on accelerating ORAM ([Oblivious RAM](https://en.wikipedia.org/wiki/Oblivious_RAM "Oblivious RAM"))</p>
+  <p> My Major is Information science and engineering, and my research focuses on accelerating ORAM (<a href="https://en.wikipedia.org/wiki/Oblivious_RAM" title="about Oblivious RAM">Oblivious RAM</a>)</p>
   <p>You are the
     <picture>
     <source
