@@ -88,7 +88,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=CCCCCC"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=DDDDDD"
       />
       <source
         media="(prefers-color-scheme: light)"
@@ -102,7 +102,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=CCCCCC"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=DDDDDD"
       />
       <source
         media="(prefers-color-scheme: light)"
