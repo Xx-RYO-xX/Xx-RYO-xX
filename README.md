@@ -43,15 +43,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark"
+        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark&borderRadius=20"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=light"
+        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=light&borderRadius=20"
       />
       <img
         alt="Discord Presence"
-        src="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark"
+        src="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark&borderRadius=20"
       />
     </picture>
   </a>
