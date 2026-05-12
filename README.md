@@ -36,6 +36,26 @@
 
 </div>
 
+## My Status
+
+<div align="center">
+  <a href="https://discord.com/users/1092447499089879211">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=light"
+      />
+      <img
+        alt="Discord Presence"
+        src="https://lanyard.cnrad.dev/api/1092447499089879211?animated=true&showDisplayName=true&animatedDecoration=true&theme=dark"
+      />
+    </picture>
+  </a>
+</div>
 
 ## My Activity
 
