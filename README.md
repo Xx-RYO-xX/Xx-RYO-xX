@@ -87,6 +87,11 @@
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
     <picture>
       <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=white"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
         srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=status&bg=white"
       />
       <img
@@ -96,6 +101,11 @@
     </picture>
     <picture>
       <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=white"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
         srcset="https://wsrv.nl/?url=atcoder-disp-graph.tra.earth/disp-rate/Xx_RYO_xX%3Fcontest-type=algo%26graph-type=graph&bg=white"
       />
       <img
