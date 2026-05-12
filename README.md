@@ -126,6 +126,9 @@
   <a href="https://github.com/" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
+  <a href="https://gitlab.com/" title="GitLab">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/>
+  </a>
   <a href="https://www.docker.com/" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   </a>
@@ -149,8 +152,9 @@
 
 <div align="center">
 
-  <a href="https://twitter.com/10_Naka_12" title="TwitterID: 10_Naka_12">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="TwitterID: 10_Naka_12" />
+  <a href="https://twitter.com/Xx_x_RYO_x_xX" title="TwitterID: Xx_x_RYO_x_xX">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="TwitterID: Xx_x_RYO_x_xX
+" />
   </a>
   <a href="https://discord.com/" title="DiscordID: ryo.inc">
     <img src="https://skillicons.dev/icons?i=discord" alt="DiscordID: ryo.inc" />
