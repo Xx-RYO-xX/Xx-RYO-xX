@@ -36,7 +36,7 @@
 
 </div>
 
-## My Status
+## My Discord Status
 
 <div align="center">
   <a href="https://discord.com/users/1092447499089879211">
