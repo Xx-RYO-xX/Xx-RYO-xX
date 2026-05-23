@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
-  <picture>
+    <picture>
         <source
           media="(prefers-color-scheme: dark)"
           srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
@@ -98,7 +98,7 @@
           alt="Xx_RYO_xX's atcoder stats"
           src="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
         />
-      </picture>
+    </picture>
   </a>
 </div>
 <!--
