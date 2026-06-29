@@ -83,7 +83,7 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
     <picture>
         <source
@@ -100,7 +100,7 @@
         />
     </picture>
   </a>
-</div>
+</div> -->
 <!--
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=heuristic">
