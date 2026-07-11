@@ -191,6 +191,28 @@ end="");p(end="");p(end="");p(end="");p(end="");p(end="");p(end="");''';exec(''.
   </a>
 </div>
 
+
+## Now Listening
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xz4l2kuofxqhmr7i3xmen5emla&redirect=true">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31xz4l2kuofxqhmr7i3xmen5emla&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31xz4l2kuofxqhmr7i3xmen5emla&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light"
+      />
+      <img
+        alt="Now Listening"
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xz4l2kuofxqhmr7i3xmen5emla&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+      />
+    </picture>
+  </a>
+</div>
+
 ## My Activity
 
 <div align="center">
